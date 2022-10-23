@@ -1,7 +1,6 @@
 # TaskWorkshop
 Console program for managing tasks.
 
--PL-
 Aplikacja posiada możliwość wpisywania komend i wykonywania odpowiednich operacji w zależności od komendy, która została wpisana.
 Aplikacja posiada następujące funkcje:
 * wyświetlanie wszystkich dostępnych zadań,
